@@ -1,0 +1,1 @@
+This app shows different kinds of p-norms by using an interactive slider and drawing the respective unit circles.

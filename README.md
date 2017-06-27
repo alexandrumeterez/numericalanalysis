@@ -1,1 +1,1 @@
-"# numericalanalysis" 
+This is where I keep the code that I write throughout Justing Solomon's CS205A course on Youtube for Numerical Methods.
