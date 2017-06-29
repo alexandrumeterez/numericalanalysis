@@ -1,0 +1,2 @@
+This app takes in 6 points from a good image and a crooked image and tries to fix the crooked one by least squares approximation of the transformation matrix and shift that has been applied to the good one.
+I have to fix the issue where the code must be run in 2 stages because otherwise it sees the list as being empty. Also, must improve the GUI.
